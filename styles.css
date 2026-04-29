@@ -365,6 +365,7 @@ h1 {
   font-size: 1.32rem;
   font-weight: 800;
   letter-spacing: 0.02em;
+  white-space: nowrap;
 }
 
 .hero__actions {
